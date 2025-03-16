@@ -1,3 +1,7 @@
-#!/bin/bash
+!/bin/bash
 echo "Ciao sono GIT"
-echo "Ciao sono filippo"
+
+
+
+echo "Ciao sono Filippo"
+
