@@ -14,4 +14,4 @@
    1. Three
   Visita il [sito ufficiale](https://esempio.com)
 
-[Installazione](#license) 
+[Installazione](license) 
