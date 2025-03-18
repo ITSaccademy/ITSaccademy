@@ -1,10 +1,17 @@
-
+<div align="center">
 
 # Benvenuto nel Mio Progetto
 
 **Un progetto fantastico!**
-
 </div>
 
-***Testo normale...***
-Quando GitHub renderizza il file, vedrai il titolo “Benvenuto nel Mio Progetto” centrato, così come la riga in grassetto sottostante.>
+- 1
+- 2
++ 3
+* 4
+1. One
+2. Two
+   1. Three
+  Visita il [sito ufficiale](https://esempio.com)
+
+[Installazione](#license) 
